@@ -38,4 +38,7 @@ class Account
     puts "The new account balance is $#{@balance}"
   end
 
+  def view_transaction_history
+
+  end
 end
